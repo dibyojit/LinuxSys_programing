@@ -52,5 +52,3 @@ main() {
 	}
 	putchar(10);
 }
-# LinuxSys_programing
-# LinuxSys_programing
